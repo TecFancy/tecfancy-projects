@@ -8,7 +8,7 @@
     "version": "0.0.1",
     "installCommand": "npm install",
     "startCommand": "npm run dev",
-    "tags": ["Projects"],
+    "tags": ["Project"],
     "ignore": ["**/public/**"]
   }
 ]
