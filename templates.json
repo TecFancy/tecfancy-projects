@@ -1,7 +1,7 @@
 [
   {
     "name": {
-      "en": "Demo",
+      "default": "Demo",
       "zh_CN": "演示"
     },
     "npmName": "@tecfancy/demo",
@@ -10,8 +10,8 @@
     "startCommand": "npm run dev",
     "tags": [
       {
-        "label": "Project",
-        "value": "项目"
+        "default": "Project",
+        "zh_CN": "项目"
       }
     ],
     "ignore": ["**/public/**"]
