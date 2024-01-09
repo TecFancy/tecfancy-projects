@@ -1,0 +1,14 @@
+[
+  {
+    "name": {
+      "en": "Demo",
+      "zh_CN": "演示"
+    },
+    "npmName": "@tecfancy/demo",
+    "version": "0.0.1",
+    "installCommand": "npm install",
+    "startCommand": "npm run dev",
+    "tags": ["Projects"],
+    "ignore": ["**/public/**"]
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "name": "tecfancy-templates",
+  "private": true,
+  "workspaces": [
+    "react/*"
+  ],
+  "devDependencies": {
+    "lerna": "^8.0.1"
+  }
+}

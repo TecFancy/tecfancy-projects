@@ -1,0 +1,32 @@
+{
+  "name": "@tecfancy/demo",
+  "version": "0.0.0",
+  "description": "TecFancy Demo",
+  "keywords": [
+    "Next.js",
+    "Tutorial"
+  ],
+  "author": "TecFancy <admin@icoder.ac.cn>",
+  "homepage": "https://github.com/tecfancy/tecfancy-templates#readme",
+  "license": "MIT",
+  "directories": {
+    "template": "template"
+  },
+  "files": [
+    "template"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tecfancy/tecfancy-templates.git"
+  },
+  "bugs": {
+    "url": "https://github.com/tecfancy/tecfancy-templates/issues"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
