@@ -1,4 +1,4 @@
-# `@tecfancy/demo`
+# `@tecfancy/demo` template
 
 ## Attention
 
