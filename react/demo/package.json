@@ -25,9 +25,5 @@
   "bugs": {
     "url": "https://github.com/tecfancy/tecfancy-templates/issues"
   },
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "gitHead": "1527323a980e280e740dedfd72ca01b6cfcf4627"
 }
