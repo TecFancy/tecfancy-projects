@@ -1,6 +1,10 @@
 {
   "name": "tecfancy-templates",
+  "scripts": {
+    "ncu": "ncu"
+  },
   "devDependencies": {
-    "lerna": "^8.0.1"
+    "lerna": "^8.0.2",
+    "npm-check-updates": "^16.14.14"
   }
 }
