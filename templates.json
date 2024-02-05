@@ -15,5 +15,22 @@
       }
     ],
     "ignore": ["**/public/**"]
+  },
+  {
+    "name": {
+      "default": "Next.js Tutorial",
+      "zh_CN": "Next.js 教程"
+    },
+    "npmName": "@tecfancy/nextjs-tutorial",
+    "version": "0.0.1",
+    "installCommand": "npm install",
+    "startCommand": "npm run dev",
+    "tags": [
+      {
+        "default": "Project",
+        "zh_CN": "项目"
+      }
+    ],
+    "ignore": ["**/public/**"]
   }
 ]
