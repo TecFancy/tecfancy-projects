@@ -1,6 +1,6 @@
 {
   "name": "@tecfancy/nextjs-tutorial",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Next.js Tutorial",
   "keywords": [
     "Next.js",
@@ -15,14 +15,15 @@
   "files": [
     "template"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tecfancy/tecfancy-templates.git"
   },
-  "scripts": {
-    "test": "node ./__tests__/nextjs-tutorial.test.js"
-  },
   "bugs": {
     "url": "https://github.com/tecfancy/tecfancy-templates/issues"
-  }
+  },
+  "gitHead": "d26e2a3ef6f26428a0156c9c0da68be2b9ee8d84"
 }
