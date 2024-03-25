@@ -22,7 +22,7 @@
       "zh_CN": "Next.js 教程"
     },
     "npmName": "@tecfancy/nextjs-tutorial",
-    "version": "2.0.0",
+    "version": "2.0.1",
     "installCommand": "npm install",
     "startCommand": "npm run dev",
     "tags": [
